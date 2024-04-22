@@ -36,3 +36,7 @@ class MataKuliah{
 
         }
 };
+
+int main () {
+    
+}
