@@ -15,5 +15,6 @@ class Mahasiswa{
 };
 
 class MataKuliah{
-    
+    private:
+        string kodeMk;
 };
