@@ -22,5 +22,6 @@ class MataKuliah{
     public:
         void input(){
             cout << "Kode MK : ";
+            cin >> kodeMk;
         }
 };
