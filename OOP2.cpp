@@ -6,4 +6,6 @@ class BangunDatar{
     // akses modifier
     private:
         float panjang, lebar;
+    public:
+        float Luas;
 };
