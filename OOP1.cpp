@@ -28,4 +28,8 @@ class MataKuliah{
             cout << "SKS : ";
             cin >> sks;
         }
+
+        void output(){
+            
+        }
 };
